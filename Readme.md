@@ -7,7 +7,7 @@ Its easier to read the code and the results in the notebook version than this re
 <br/>
 <br/>
 Click [here](mainNoteBook.ipynb) to check notebook version.
-#Task 1
+# Task 1
 
 <b>A</b>: 
 [3 2]
@@ -54,7 +54,7 @@ AB^T is the same as A^T@B^T
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[12 40]
 
-#Task 2
+# Task 2
 <b>A:</b>
 [5 8]
 <br/>
@@ -66,7 +66,7 @@ AB^T is the same as A^T@B^T
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[18 11]
 <br/>
 
-#Task 3
+# Task 3
 <b>A:</b>
 [2 -1]
 <br/>
@@ -98,6 +98,6 @@ AB^T is the same as A^T@B^T
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[0  1]
 <br/>
 
-#Task 4
+# Task 4
 <b>A:</b>
 ![](rotatedFigure.png)"# MatrixFun" 
