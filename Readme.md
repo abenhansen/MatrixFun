@@ -100,4 +100,4 @@ AB^T is the same as A^T@B^T
 
 # Task 4
 <b>A:</b>
-![](rotatedFigure.png)"# MatrixFun" 
+![](rotatedFigure.png)
