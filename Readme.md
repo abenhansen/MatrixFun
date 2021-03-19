@@ -100,4 +100,5 @@ AB^T is the same as A^T@B^T
 
 # Task 4
 <b>A:</b>
+<br/>
 ![](rotatedFigure.png)
